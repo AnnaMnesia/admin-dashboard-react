@@ -11,7 +11,7 @@
 - full calendar: https://fullcalendar.io/docs
 - formik: https://formik.org/docs/overview#inst...
 - yup validation: https://github.com/jquense/yup
-- react pro sidebar: https://github.com/azouaoui-med/react... 
+- react pro sidebar: https://github.com/azouaoui-med/react-pro-sidebar
 
 and aslo google fonts: https://fonts.google.com/
 
