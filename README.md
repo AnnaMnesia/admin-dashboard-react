@@ -14,7 +14,7 @@
 - react pro sidebar: https://github.com/azouaoui-med/react-pro-sidebar
 
 
-### Udemy Course 
+### Udemy Course in order to learn more
 - React Data Visualization - Build a Cryptocurrency Dashboard: https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/#instructor-1
 
 ### Ideas For Design 
