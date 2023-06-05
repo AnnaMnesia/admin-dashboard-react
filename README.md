@@ -13,5 +13,10 @@
 - yup validation: https://github.com/jquense/yup
 - react pro sidebar: https://github.com/azouaoui-med/react-pro-sidebar
 
-and aslo google fonts: https://fonts.google.com/
 
+### Udemy Course 
+- React Data Visualization - Build a Cryptocurrency Dashboard: https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/#instructor-1
+
+### Ideas For Design 
+- https://blog.logrocket.com/top-react-dashboard-libraries/
+- https://github.com/ant-design/ant-design-pro
