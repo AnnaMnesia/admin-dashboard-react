@@ -20,3 +20,4 @@
 ### Ideas For Design 
 - https://blog.logrocket.com/top-react-dashboard-libraries/
 - https://github.com/ant-design/ant-design-pro
+- https://1stwebdesigner.com/a-showcase-of-beautiful-dashboard-design-inspiration/
