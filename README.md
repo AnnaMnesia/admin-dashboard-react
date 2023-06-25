@@ -6,7 +6,7 @@
 ### React - Framework 
 - material ui: https://mui.com
 
-### Packeges
+### Packages
 - nivo charts: https://nivo.rocks/components
 - full calendar: https://fullcalendar.io/docs
 - formik: https://formik.org/docs/overview#inst...
